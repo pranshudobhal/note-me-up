@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card {
+  border: 1px solid green;
+  margin: 2rem;
+  display: inline-block;
+  padding: 2rem;
+}
+
+.card li {
+  list-style: none;
+}
